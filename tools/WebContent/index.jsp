@@ -6,6 +6,6 @@
 <title>tools index</title>
 </head>
 <body>
-	<h1 style="color: red;font-size: 48px" align="center">首页</h1>
+	<h1 style="color: red;font-size: 48px" align="center">tools首页</h1>
 </body>
 </html>
